@@ -114,12 +114,14 @@ git push origin feature-branch
 
 <h2>🚀 Future Enhancements</h2>
 <ul>
-  <li>🔹 Add backend functionality for user authentication and train booking.</li>
-  <li>🔹 Improve UI/UX with better animations and responsiveness.</li>
-  <li>🔹 Integrate real-time train availability and PNR status tracking.</li>
+  <li> Add backend functionality for user authentication and train booking.</li>
+  <li> Improve UI/UX with better animations and responsiveness.</li>
+  <li> Integrate real-time train availability and PNR status tracking.</li>
 </ul>
 
 <hr>
 
-<h2>📞 Contact</h2>
-<p>For any queries or suggestions, feel free to reach out via the <strong>Contact Us</strong> page.</p>
+<h2>🌐 Connect with Me </h2>
+<ul>
+  <li>💼 <a href="https://www.linkedin.com/in/mohammed-imaad-sharieff-08891a238/" target="_blank">LinkedIn</a></li>
+</ul>
