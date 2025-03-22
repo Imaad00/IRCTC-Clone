@@ -54,6 +54,25 @@ IRCTC-Clone/
 
 <hr>
 
+<h2>📝 Registration & Login Instructions</h2>
+<h3>🔹 How to Register:</h3>
+<ol>
+  <li>Go to the <b>Register</b> page.</li>
+  <li>Enter your <b>Username<b> and <b>Password</b>.</li>
+  <li>Select the prefered Language</li>
+  <li>Select the Security Question and provide an answer for that</li>
+  <li>Click the <b>Register</b> button.</li>
+  <li>Once registered, you will be redirected to the login page.</li>
+</ol>
+
+<h3>🔹 How to Login:</h3>
+<ol>
+  <li>Go to the <b>Login</b> page.</li>
+  <li>Enter your <b>Username</b> and <b>Password</b>.</li>
+  <li>Click the <b>Login</b> button.</li>
+  <li>If the credentials are correct, you will be redirected to the home page.</li>
+</ol>
+
 <h2>⚙️ Setup and Installation</h2>
 
 <h3>📌 Prerequisites</h3>
