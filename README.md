@@ -31,25 +31,25 @@
 <h2>📂 File Structure</h2>
 <pre>
 IRCTC-Clone/
-│── index.html        # Main Home Page
-│── style.css         # Main CSS file
-│── script.js         # Main JavaScript file
+│── index.html       # Main Home Page
+│── style.css        # Main CSS file
+│── script.js        # Main JavaScript file
 │── Contact_us/
-│   ├── index.html  # Contact Us Page
-│   ├── style.css   # Styles for Contact Us Page
+│   ├── index.html   # Contact Us Page
+│   ├── style.css    # Styles for Contact Us Page
 │── Home/
-│   ├── index.html     # Home Page
-│   ├── style.css      # Styles for Home Page
-│   ├── script.js       # JavaScript for Home Page
+│   ├── index.html   # Home Page
+│   ├── style.css    # Styles for Home Page
+│   ├── script.js    # JavaScript for Home Page
 │── Login_page/
-│   ├── index.html    # Login Page
-│   ├── style.css     # Styles for Login Page
-│   ├── script.js      # JavaScript for Login Page
+│   ├── index.html   # Login Page
+│   ├── style.css    # Styles for Login Page
+│   ├── script.js    # JavaScript for Login Page
 │── train_List/
-│   ├── index.html  # Train List Page
-│   ├── style.css   # Styles for Train List Page
+│   ├── index.html   # Train List Page
+│   ├── style.css    # Styles for Train List Page
 │   ├── script.js    # JavaScript for Train List Page
-│── images/            # Stores images used in the project
+│── images/          # Stores images used in the project
 </pre>
 
 <hr>
